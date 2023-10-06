@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Eric McGhee, I'm a fullstack developer, Desktop and User Support Specialist. I'm currently interested in expanding my skills in Web Development, and creating custom applications.
+I'm Eric McGhee, A fullstack developer, Desktop and User Support Specialist Sr, I'm currently interested in expanding my skills in Web Development, and Game Design.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,regex,mysql,jquery,jest,heroku,graphql,github,git,figma,mongodb,nodejs,postman,sequelize,vscode,wordpress,express,blender,bootstrap,autocad,apollo,materialui&perline=10)](https://skillicons.dev)
+Coding focused:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,regex,mysql,jquery,jest,heroku,graphql,github,git,figma,mongodb,nodejs,postman,sequelize,vscode,wordpress,express,bootstrap,apollo&perline=10)](https://skillicons.dev)
+
+Art/Design focused:
+[![My Skills](https://skillicons.dev/icons?i=blender,autocad,materialui&perline=10)](https://skillicons.dev)
