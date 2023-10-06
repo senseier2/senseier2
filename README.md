@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Eric McGhee, I'm a fullstack developer, Desktop and User Support Specialist. I'm currently interested in expanding my skills in Web Development, and creating custom applications.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,regex,mysql,jquery,jest,heroku,graphql,github,git,figma,mongodb,nodejs,postman,sequelize,vscode,wordpress,express,blender,bootstrap,autocad,apollo,materialui&perline=6)](https://skillicons.dev)
