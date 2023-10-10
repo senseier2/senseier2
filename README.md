@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Eric McGhee, A fullstack developer, Desktop and User Support Specialist Sr, I'm currently interested in expanding my skills in Web Development, and Game Design.
+I'm Eric McGhee, A Fullstack Developer and Desktop and User Support Specialist Sr. I'm currently interested in expanding my skills in Web Development, and Game Design.
 
 Coding focused:
 
