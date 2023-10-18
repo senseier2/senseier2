@@ -19,7 +19,12 @@ I'm Eric McGhee, A Fullstack Developer, Desktop and User Support Specialist Sr (
 
 Coding focused:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,regex,mysql,jquery,jest,heroku,graphql,github,git,figma,mongodb,nodejs,postman,sequelize,vscode,wordpress,express,bootstrap,apollo&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,regex,mysql,jquery,mongodb,nodejs,sequelize,wordpress,express,bootstrap&perline=10)](https://skillicons.dev)
+
+Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=jest,heroku,graphql,github,git,postman,vscode,apollo&perline=10)](https://skillicons.dev)
+
 
 Art/Design focused:
 
