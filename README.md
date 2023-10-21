@@ -29,3 +29,5 @@ Tools:
 Art/Design focused:
 
 [![My Skills](https://skillicons.dev/icons?i=blender,autocad,materialui&perline=10)](https://skillicons.dev)
+
+Contact me via linkedin: https://www.linkedin.com/in/eric-mcghee-senseier2/
