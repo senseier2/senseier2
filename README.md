@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 I'm Eric McGhee, A Fullstack Developer, Desktop and User Support Specialist Sr (15+ years), and a Game Art and Design hobbyist. I'm currently interested in expanding my skills in Web Development, and Game Design.
 
+Education:
+
+Associates Degree: Information Systems, Microsoft Systems
+Bachelors: Game Art and Design
+Certificate: Full Stack Web Development
+
 Coding focused:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,regex,mysql,jquery,mongodb,nodejs,sequelize,wordpress,express,bootstrap&perline=10)](https://skillicons.dev)
