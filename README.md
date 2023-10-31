@@ -20,7 +20,9 @@ I'm Eric McGhee, A Fullstack Developer, Desktop and User Support Specialist Sr (
 Education:
 
 Associates Degree: Information Systems, Microsoft Systems
+
 Bachelors: Game Art and Design
+
 Certificate: Full Stack Web Development
 
 Coding focused:
